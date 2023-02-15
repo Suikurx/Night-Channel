@@ -2,7 +2,11 @@
   "name": "night-channel",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "html/index.html",
+=======
+  "main": "index.html",
+>>>>>>> 164a9d512421b7cfb8d7259716a9f751eeb496fb
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run lite",
